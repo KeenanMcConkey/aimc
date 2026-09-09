@@ -1,0 +1,1 @@
+Set total to 0. For each number i from 1 to 100, if i is divisible by 3 or i is divisible by 5, add i to total. Print total.

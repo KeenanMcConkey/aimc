@@ -1,0 +1,1 @@
+Read a number n from input. Print the factorial of n.

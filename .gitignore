@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+a.out
+a.raw
+a.hex
+*.macho
+*.elf
+build/
+dist/
+*.egg-info/
+.DS_Store
